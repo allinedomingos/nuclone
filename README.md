@@ -13,8 +13,8 @@ Automation project used Appium with Robot Framework.
 
 # Environment variable settings:
 
-ANDROID_HOME=C:\Users\myuser\AppData\Local\Android\Sdk 
-JAVA_HOME=C:\Program Files\Java\jdk1.8.0_271
+* ANDROID_HOME=C:\Users\myuser\AppData\Local\Android\Sdk 
+* JAVA_HOME=C:\Program Files\Java\jdk1.8.0_271
 
 # Appium settings:
 ```
